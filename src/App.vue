@@ -11,7 +11,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
+  }
 #nav {
   padding: 30px;
   a {
@@ -21,5 +21,8 @@
       color: #42b983;
     }
   }
+}
+body {
+  background-color: rgba(0,0,0,0.05);
 }
 </style>
